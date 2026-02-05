@@ -14,6 +14,8 @@ Este repositório contém meu manual técnico pessoal sobre o ecossistema Docker
 > [!IMPORTANT]
 > **Recomendação de Leitura:** Este material foi estruturado utilizando o **Obsidian**. Para uma experiência completa (navegação por links, renderização de alertas técnicos e diagramas), recomenda-se clonar o repositório e abrir a pasta como um *Vault* no Obsidian.
 
+<br>
+
 ## 🚀 O que este manual cobre?
 O guia está dividido em 8 módulos que percorrem desde os fundamentos do Kernel Linux até o Hardening de imagens:
 1. **Fundamentos:** Namespaces, Cgroups e Chroot.
@@ -23,16 +25,22 @@ O guia está dividido em 8 módulos que percorrem desde os fundamentos do Kernel
 5. **Security:** Docker Content Trust (DCT) e Secrets.
 ... (e muito mais!)
 
+<br>
+
 ## 🛠️ Tecnologias abordadas
 - **Engine:** Docker & Containerd
 - **Orquestração:** Docker Swarm (focado em Secrets/Deploy)
 - **Segurança:** Notary, OpenSSL, Linux Capabilities
 - **Automação:** Bash, Heredoc, Docker-Compose
 
+<br>
+
 ## 📝 Como utilizar
 1. Instale o [Obsidian](https://obsidian.md/).
 2. Clone este repositório: `git clone https://github.com/ettory-automation/DockerNotes.git`.
 3. No Obsidian, clique em "Open folder as vault" e selecione a pasta clonada.
+
+<br>
 
 ## 🪄 Dicas Extras
 Recomenda-se utilizar os seguintes plugins abaixo para melhor aproveitamento no Obsidian:
